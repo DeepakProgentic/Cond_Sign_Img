@@ -13,8 +13,6 @@ people.html           People
 clients.html          Clients
 insights.html         Insights
 contact.html          Contact, with the live enquiry form
-pricing.html          Published fees
-legal.html            Legal index
 terms.html            Terms and conditions
 notice.html           Legal and regulatory notice
 cookies.html          Manage cookie consent
@@ -22,8 +20,6 @@ robots.txt
 sitemap.xml
 assets/               Images, logos, portraits, hero photographs
 css/site.css          The whole stylesheet: tokens, components, one 1060px breakpoint
-css/fonts.css         Optional self-hosted @font-face rules
-fonts/                Empty until the .woff2 files are added (see fonts/README.md)
 js/site.js            Nav drawer, hero crossfade, service tabs, FAQ accordion,
                       bio modals, cookie preferences, enquiry form
 ```
